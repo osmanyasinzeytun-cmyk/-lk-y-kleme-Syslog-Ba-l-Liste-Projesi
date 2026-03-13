@@ -1,0 +1,3 @@
+Mar 13 22:15:01 osman-pc systemd: Starting Session 1 of user osman.
+Mar 13 22:16:10 osman-pc kernel: [ 12.345] eth0: link up, 100Mbps.
+Mar 13 22:18:45 osman-pc auth: Password accepted for user root.
